@@ -226,8 +226,13 @@ function Home() {
               building hope.
             </p>
             <p className="mt-2">
-              In partnership with Kenya Red Cross, tiko, KMET and community partners.
+              In partnership with
             </p>
+            <img
+              src="/partners.png"
+              alt="Partner logos, including Kenya Red Cross, tiko and KMET"
+              className="mt-3 block h-auto w-full max-w-xl"
+            />
           </footer>
         </div>
       </div>

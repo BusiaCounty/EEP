@@ -101,6 +101,25 @@ function HelpPage() {
           </div>
         </section>
 
+        <section className="card mt-6 p-5">
+          <h2 className="font-display text-2xl text-ink">About website chat</h2>
+          <p className="mt-2 leading-relaxed text-muted">
+            Website chat is provided by Tawk.to. If you use it, your messages are handled by that
+            service under its{" "}
+            <a
+              href="https://www.tawk.to/privacy-policy/"
+              target="_blank"
+              rel="noreferrer"
+              className="font-semibold text-forest underline"
+            >
+              privacy policy
+            </a>
+            . Avoid sharing your full name, address, phone number, passwords or other sensitive
+            details. Chat is not for emergencies. If you are in immediate danger, get to a safe
+            place and contact a trusted adult or one of the free help lines above.
+          </p>
+        </section>
+
         <section id="adults" className="mt-8 scroll-mt-24">
           <h2 className="font-display text-3xl text-ink">Adults I can talk to</h2>
           <p className="mt-2 leading-relaxed text-muted">

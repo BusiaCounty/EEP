@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "End Early Pregnancies — Busia County",
+      "hasCanvas": false,
+      "bodyTextLen": 1509,
+      "bodyTextHash": "b55d9dc9df1f1558c457bc61a5ab6c4c7641136aa81badb60f4a0fe6268d81ab",
+      "bodyTextPrefix": "Skip to content BUSIA COUNTY · 2026 End early pregnancies Home F",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "End Early Pregnancies — Busia County",
+      "hasCanvas": false,
+      "bodyTextLen": 1509,
+      "bodyTextHash": "b0bc91ef19f6e7626e72c49836baef78a8f1054520df381c2ee3bd87c4aca92f",
+      "bodyTextPrefix": "Skip to content BUSIA COUNTY · 2026 End early pregnancies STOP E",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

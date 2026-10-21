@@ -1,0 +1,1 @@
+import{b as e,x as t}from"./index-BMxhkUqC.js";var n=t(e(),1);function r(e,t){let[r,i]=(0,n.useState)(t),[a,o]=(0,n.useState)(!1);return(0,n.useEffect)(()=>{try{let t=localStorage.getItem(e);t!=null&&i(JSON.parse(t))}catch{}o(!0)},[e]),(0,n.useEffect)(()=>{if(a)try{localStorage.setItem(e,JSON.stringify(r))}catch{}},[e,a,r]),[r,i,a]}export{r as t};

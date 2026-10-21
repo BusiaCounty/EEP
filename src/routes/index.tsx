@@ -226,7 +226,7 @@ function Home() {
               building hope.
             </p>
             <p className="mt-2">
-              In partnership with
+              In partnership with Red Cross Ke
             </p>
             <img
               src="/partners.png"
